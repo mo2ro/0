@@ -1,0 +1,1123 @@
+============== :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 169.150.218.30
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: cookn5**bjjbg`)^jh
+Refrence URL: https://d28v38-8080.csb.app/?a=cookn5**bjjbg`)^jh
+Redirect URL: iuuqt;00hpphmf/dpn
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 51%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 1:54:39 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: Compromised Server
+ip: 169.150.218.30
+network: 169.150.218.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1011
+latitude: 52.371
+longitude: 4.9041
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS212238
+org: Datacamp Limited
+=== :EXTRA: ===
+IP: 169.150.218.30
+Country: The Netherlands
+State: North Holland
+City: Amsterdam
+Latitude: 52.3759
+Longitude: 4.8975
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 169.150.218.30
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))siono\_(]ig
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))siono\_(]ig
+Redirect URL: https://youtube.com
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 50%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 3g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 1:57:04 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: Compromised Server
+ip: 169.150.218.30
+network: 169.150.218.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1011
+latitude: 52.371
+longitude: 4.9041
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS212238
+org: Datacamp Limited
+=== :EXTRA: ===
+IP: 169.150.218.30
+Country: The Netherlands
+State: North Holland
+City: Amsterdam
+Latitude: 52.3759
+Longitude: 4.8975
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 169.150.218.30
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))siono\_(]ig
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))siono\_(]ig
+Redirect URL: https://youtube.com
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 50%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 3g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 1:57:54 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: Compromised Server
+ip: 169.150.218.30
+network: 169.150.218.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1011
+latitude: 52.371
+longitude: 4.9041
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS212238
+org: Datacamp Limited
+=== :EXTRA: ===
+IP: 169.150.218.30
+Country: The Netherlands
+State: North Holland
+City: Amsterdam
+Latitude: 52.3759
+Longitude: 4.8975
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 68.52.45.5
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: true
+Battery percentage: 94%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 3:41:22 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: no
+type: Residential
+ip: 68.52.45.5
+network: 68.52.32.0/20
+version: IPv4
+city: Gallatin
+region: Tennessee
+region_code: TN
+country: US
+country_name: United States
+country_code: US
+country_code_iso3: USA
+country_capital: Washington
+country_tld: .us
+continent_code: NA
+in_eu: false
+postal: 37066
+latitude: 36.3834
+longitude: -86.4512
+timezone: America/Chicago
+utc_offset: -0600
+country_calling_code: +1
+currency: USD
+currency_name: Dollar
+languages: en-US,es-US,haw,fr
+country_area: 9629091
+country_population: 327167434
+asn: AS7922
+org: COMCAST-7922
+=== :EXTRA: ===
+IP: 68.52.45.5
+Country: United States
+State: Tennessee
+City: Gallatin
+Latitude: 36.3834
+Longitude: -86.4512
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 68.52.45.5
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: true
+Battery percentage: 100%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 3:54:10 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: no
+type: Residential
+ip: 68.52.45.5
+network: 68.52.32.0/20
+version: IPv4
+city: Gallatin
+region: Tennessee
+region_code: TN
+country: US
+country_name: United States
+country_code: US
+country_code_iso3: USA
+country_capital: Washington
+country_tld: .us
+continent_code: NA
+in_eu: false
+postal: 37066
+latitude: 36.3834
+longitude: -86.4512
+timezone: America/Chicago
+utc_offset: -0600
+country_calling_code: +1
+currency: USD
+currency_name: Dollar
+languages: en-US,es-US,haw,fr
+country_area: 9629091
+country_population: 327167434
+asn: AS7922
+org: COMCAST-7922
+=== :EXTRA: ===
+IP: 68.52.45.5
+Country: United States
+State: Tennessee
+City: Gallatin
+Latitude: 36.3834
+Longitude: -86.4512
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 98%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 4:26:02 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))siono\_(]ig
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))siono\_(]ig
+Redirect URL: https://youtube.com
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 96%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 4:32:35 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))siono\_(]ig
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))siono\_(]ig
+Redirect URL: https://youtube.com
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 95%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 4:33:37 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))siono\_(]ig
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))siono\_(]ig
+Redirect URL: https://youtube.com
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 95%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 4:34:57 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))siono\_(]ig
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))siono\_(]ig
+Redirect URL: https://youtube.com
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 94%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 4:36:13 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 89%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 4:46:27 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 67%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 5:32:35 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 65%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 5:36:09 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 60%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 5:47:28 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+GRABBER CODE: bnnjm4))qqq(siono\_(]ig)q[n]b9p7+CYkOjnhG[m
+Refrence URL: https://d28v38-8080.csb.app/?a=bnnjm4))qqq(siono\_(]ig)q[n]b9p7+CYkOjnhG[m
+Redirect URL: https://www.youtube.com/watch?v=1I_qUptnMas
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 59%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 5:49:35 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 59%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 5:50:18 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ip: 185.107.56.146
+network: 185.107.56.0/24
+version: IPv4
+city: Amsterdam
+region: North Holland
+region_code: NH
+country: NL
+country_name: The Netherlands
+country_code: NL
+country_code_iso3: NLD
+country_capital: Amsterdam
+country_tld: .nl
+continent_code: EU
+in_eu: true
+postal: 1014
+latitude: 52.3908
+longitude: 4.8668
+timezone: Europe/Amsterdam
+utc_offset: +0100
+country_calling_code: +31
+currency: EUR
+currency_name: Euro
+languages: nl-NL,fy-NL
+country_area: 41526
+country_population: 17231017
+asn: AS43350
+org: NForce Entertainment B.V.
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 185.107.56.146
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 46%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/19/2025, 6:21:30 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: yes
+type: VPN
+provider: NForce Entertainment B.V.
+organisation: NForce Entertainment B.V
+ERROR: Data not available, API was rate limited
+=== :EXTRA: ===
+IP: 185.107.56.146
+Country: The Netherlands
+State: N/A
+City: None
+Latitude: 52.3824
+Longitude: 4.8995
+=== :END: ================= :START: ==============
+Channel ID: 13107798792849368
+Bare IP: 68.52.45.5
+=========== :CLIENT: ===========
+GRABBER VERSION: TE.2.1
+Refrence URL: https://d28v38-8080.csb.app/
+Redirect URL: None
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0
+Touchscreen: true
+Touch Points: 10
+Mobile: false
+Memory: 8
+CPU Cores: 12
+Charging: false
+Battery percentage: 28.000000000000004%
+GPU Vendor: Google Inc. (Intel)
+GPU Renderer: ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A8) Direct3D11 vs_5_0 ps_5_0, D3D11)
+Languages: en-US,en
+Connection type: 4g
+Color Depth: 24
+Screen Orientation: landscape-primary
+Screen Angle: 0
+Screen Dimensions: 1536x864
+Current Time: 2/21/2025, 5:33:05 PM
+Client String: Opera 116.0 on Windows 10
+=== :CONNECTION: ===
+proxy: no
+type: Residential
+ip: 68.52.45.5
+network: 68.52.32.0/20
+version: IPv4
+city: Gallatin
+region: Tennessee
+region_code: TN
+country: US
+country_name: United States
+country_code: US
+country_code_iso3: USA
+country_capital: Washington
+country_tld: .us
+continent_code: NA
+in_eu: false
+postal: 37066
+latitude: 36.3834
+longitude: -86.4512
+timezone: America/Chicago
+utc_offset: -0600
+country_calling_code: +1
+currency: USD
+currency_name: Dollar
+languages: en-US,es-US,haw,fr
+country_area: 9629091
+country_population: 327167434
+asn: AS7922
+org: COMCAST-7922
+=== :EXTRA: ===
+IP: 68.52.45.5
+Country: United States
+State: Tennessee
+City: Gallatin
+Latitude: 36.3834
+Longitude: -86.4512
+=== :END: ===
