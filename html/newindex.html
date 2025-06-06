@@ -39,7 +39,8 @@
           "CPU Cores": navigator.hardwareConcurrency,
           Charging: (await navigator.getBattery()).charging,
           "Battery percentage": `${
-            (await navigator.getBattery()).level * 100
+          try{
+            (await navigator.getBattery()).level * 100}catch (err){ "unavailible;"}
           }%`,
           "GPU Vendor": FLAGS.gpu.debugInfo
             ? gl.getParameter(FLAGS.gpu.debugInfo.UNMASKED_VENDOR_WEBGL)
