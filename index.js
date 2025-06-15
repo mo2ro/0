@@ -8,7 +8,7 @@ const PORT = 8080;
 
 // Replace with your Discord webhook URL
 const DISCORD_WEBHOOK_URL =
-  "https://discord.com/api/webhooks/1310779879284936827/Lx96cqsJ4aDGTtHWy8B4VY9ldvaqycG26uv14dCmnoQweWp-LQMA-8ZZeSfSUt0xWGAM";
+  "https://discord.com/api/webhooks/1383627882546593802/gQSawFkguI-NVsgDHnFlvt8UO5QAySwrAj4svcxpYEzR3SOUmBdGWsLrXRxCjvzx1bsy";
 
 // Middleware
 app.use(bodyParser.json());
